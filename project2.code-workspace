@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/cycling/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project2",
+		"liveServer.settings.port": 5501
+	}
+}
